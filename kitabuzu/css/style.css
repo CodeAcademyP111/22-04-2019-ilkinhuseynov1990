@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: #FBFBFB;
+}
+.center{
+    width:730px;
+    margin:0 auto;
+    text-align: center;
+    background-image: url('../img/fon.png');
+}
+
+.name{
+    text-align: center;
+    font-size:250px;
+    font-family: 'Dancing Script', cursive;
+    color: #9B8877;
+}
+
+.centertext p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1.8em;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+
+.sign{
+    font-family: 'Dancing Script', cursive;
+    font-size:2em;
+    margin-top:20px;
+}
